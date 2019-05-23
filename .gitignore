@@ -1,0 +1,6 @@
+node_modules/
+server/gin-bin
+server/db/dbconf.yml
+server/static/build/
+**/*DS_Store
+**/*.coverprofile
